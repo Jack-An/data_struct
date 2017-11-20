@@ -1,2 +1,4 @@
-# data_struct
-data struct 
+# data struct
+ Graph
+ Tree
+ list
